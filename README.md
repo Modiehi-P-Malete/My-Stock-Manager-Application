@@ -1,0 +1,2 @@
+# My-Stock-Manager-Application
+ Portfolio Manager Application is a Python tool by myself, Modiehi Patience Malete ,for managing multiple stock portfolios. It allows users to add portfolios, track stocks, buy/sell shares, manage balances, and view portfolio details. The application features a menu-driven interface for easy navigation and ensures robust handling of financial transactions and user inputs.
